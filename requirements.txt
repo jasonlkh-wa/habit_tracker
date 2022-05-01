@@ -38,7 +38,6 @@ decorator==5.1.0
 defusedxml==0.7.1
 entrypoints==0.3
 fastjsonschema==2.15.3
-flatbuffers==20210226132247
 flit_core==3.7.1
 fonttools==4.29.0
 frozenlist==1.2.0
