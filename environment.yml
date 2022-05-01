@@ -2,7 +2,6 @@ name: 38Waland
 channels:
   - anaconda
   - conda-forge
-  - defaults
 dependencies:
   - _tflow_select=2.1.0=gpu
   - abseil-cpp=20210324.2=hd77b12b_0
